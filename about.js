@@ -223,3 +223,6 @@ $(document).ready(function()
 });
 print("Hello:");
 //Todo:Do this;
+print("Hello World")
+print("Hello city")
+print("Hello pak")

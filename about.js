@@ -221,5 +221,5 @@ $(document).ready(function()
 	}
 		}
 });
-print("Nice:");
+print("Hello Nice:");
 
